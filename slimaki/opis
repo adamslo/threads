@@ -1,0 +1,9 @@
+Krótki opis programu Ślimaki.
+
+W programie tworzone są 3 różne wątki: Przyrost, Ślimak, oraz wypisywanie. 
+Każdy wątek wykorzystuje zmienne z klasy Trawnik. W mainie tworzone są 
+3 wątki typu ślimak 1 typu Przyrost oraz 1 typu wyisywanie. Każdy z 
+tych wątków ma unikalny czas po którym się usypia.
+
+Nie robiłem grafiki do tego programu, działanie można zaobserwować
+dzięki wyisywaniu tablicy reprezentującej trawnik.
